@@ -1,0 +1,31 @@
+segment_sources:
+  PB493EF94:
+    type: origin_type
+    relation: translation
+    language: en
+  PE70CAE8F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7ebe920c625a401bacf57ea180d69b1a:
+    PB493EF94: 2a83f5a254b743588e8c1509caea0957
+    PE70CAE8F: c0d6108beff240cf9189fb68760956b0
+  afbd52b39ab54555b5e9ec265656beba:
+    PB493EF94: 7353e7bdf22f44d098f07b8b059a4b90
+    PE70CAE8F: 461c67e8c67847e8afe2c72e4ea7d4c7
+  4a089b28ab924d3a90269a102c4aa1ca:
+    PB493EF94: 881c692b7e6143a9bc0a003c65f3f96a
+    PE70CAE8F: 1b64b912786245c78eeea8548cb5714f
+  9ecf0d5ec7234e4694baf3b3910e1f9e:
+    PB493EF94: b4efc4af2aa74c46a29aa63b108211d6
+    PE70CAE8F: 2add84036bd34af28a96d9be09e225ef
+  a74af51d5f1440488c89de1fdd02b27a:
+    PB493EF94: 16f541acc7a2436badc03403e85ec41a
+    PE70CAE8F: e6218738681d4396aca0b253ea5c80c9
+  c327d2c68d9c48cd9d6c23866f005c5f:
+    PB493EF94: 4f2bd505f4b549928f5a53120ca20977
+    PE70CAE8F: 98bd5008336642d687b082c5b19b26d0
+  0c66efedb8ee45eb95ab10be3444c535:
+    PB493EF94: f3a6ae4cdc264b02b24819d7e1542243
+    PE70CAE8F: 1be7b75d83da452ca453aaded1f74d19

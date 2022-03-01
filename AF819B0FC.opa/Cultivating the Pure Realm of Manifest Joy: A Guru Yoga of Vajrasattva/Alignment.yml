@@ -1,0 +1,19 @@
+segment_sources:
+  PB493EF94:
+    type: origin_type
+    relation: translation
+    language: en
+  PE70CAE8F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8d421cd6310642fd938bc5bafc675560:
+    PB493EF94: de3be18092d44577a260597d66b1935e
+    PE70CAE8F: 5265fe941795441eb8109f2e90c01115
+  f4ab7842f92e4f39803d2a222b6581ec:
+    PB493EF94: 95f617b817e944c4bcc8d35c50564f87
+    PE70CAE8F: 992015c6cbaa4afa97ada45570753c31
+  655a44eb700d4967962a4530c74b4810:
+    PB493EF94: a3162bbcb5e84ce48e335ac5f74b158e
+    PE70CAE8F: 41a29ad03f9942dea42f2d70d2c253b5
